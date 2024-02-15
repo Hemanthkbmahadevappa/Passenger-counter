@@ -1,21 +1,47 @@
-# cz8JPVtr
+# Row Counter
 
-Quick start:
+A simple web app that allows you to count rows with an increment button and save the count for reference. Built using HTML, JavaScript, and CSS.
 
-```
-$ npm install
-$ npm start
-````
+## Live Demo
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
+Check out the live demo hosted on Netlify: [Row Counter Demo](https://your-netlify-app-url)
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## Features
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+- Increment button to count rows.
+- Save button to store and display previous entries.
 
-Happy Coding!
+## Getting Started
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/row-counter.git
+   Open index.html in your preferred browser.
+
+## Usage
+- Click the "INCREMENT" button to count rows.
+- Click the "SAVE" button to store the count.
+- Previous entries are displayed below the buttons.
+
+## Screenshots
+Include screenshots or GIFs to showcase the app's interface.
+
+## Technologies Used
+- HTML
+- JavaScript
+- CSS
+- Normalize.css
+
+## Acknowledgments
+This project was created as part of the JavaScript course on Scrimba.
+
+## Deployment
+The project is deployed on Netlify. Feel free to deploy your own instance!
+
+## Author
+Hemanthkumar BM
+
+## License
+This project is licensed under the MIT License.
+

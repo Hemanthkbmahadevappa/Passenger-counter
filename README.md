@@ -2,6 +2,7 @@
 
 A simple web app that allows you to count rows with an increment button and save the count for reference. Built using HTML, JavaScript, and CSS.
 
+
 ## Live Demo
 
 Check out the live demo hosted on Netlify: [Row Counter Demo](https://your-netlify-app-url)
